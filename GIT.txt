@@ -1,0 +1,31 @@
+GIT
+ - Created by Linus Torvald who also developed Linux kernel
+ - Version Control System(VCS)
+ - A VCS enables to record changes files over time.
+ - Used as Software Configuration Management(SCM) or Source Code Management(SCM)
+ 
+ Other VCS: subversion,git ,SVN etc
+  - Every Machine will have their own repository so although server fails there will be backup of that project
+  
+  
+  1) Create Bracnch
+  2) Delete Branch from local and Remote
+  3) Merge Branches
+  4) Delete Commits
+  
+  As per this Video https://www.youtube.com/watch?v=HVsySz-h9r4
+  GENERAL GIT COMMANDS:
+  1) To get verssion of git: git --version
+  2) Set Config Values: 
+    - git conifg --global user.name "Prama"
+	- git config --global user.email "ppa@codebee.dk"
+  3) To list all the configuration values
+	- git config --list
+  4) initialize tracking
+    - git init
+  5) To list all folders 
+    - ls -la
+  6) 
+	 - git stash
+  7) 
+	 - git stash pop

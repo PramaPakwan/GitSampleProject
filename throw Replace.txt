@@ -1,0 +1,7 @@
+For Throw replace
+SystemLogErrors\.LogCatchedErrors\(ex\);
+Replace With :  SystemLogErrors.LogCatchedErrors(ex);\r\n\t\t\t\t throw;    
+
+For View Error File :
+find with : SystemLogErrors\.LogCatchedErrors\(e\);
+Replace With : SystemLogErrors.LogCatchedErrors(e);\r\n\t\t\t\t return View("Error");

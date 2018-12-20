@@ -1,0 +1,40 @@
+2018/11/23
+ 1) http://jira.codebee.dk:8080/browse/MBS-248
+  - update fee name resources on Germany
+  
+  2018/11/26
+ 1) http://jira.codebee.dk:8080/browse/DAM-131
+  - Changes made as per comment on pull request
+ 2)http://jira.codebee.dk:8080/browse/DAM-130
+   - While testing this task RoleMenuAccess is not running as there is already issue in live
+   - Issue of Role Access was resolved in this task
+ 3) http://jira.codebee.dk:8080/browse/DAM-129
+  - FullRateMatrix was not being deleted properly so resolved it
+  - Changes made as per comments
+  2018/11/27
+  1) http://jira.codebee.dk:8080/browse/DAM-129
+    - Changes made as per comments
+  2) http://jira.codebee.dk:8080/browse/MBS-260
+	- hide inco terms
+  3) http://jira.codebee.dk:8080/browse/LEM-682
+    - on pickup/Tools on index page we need to load all the pending status as default
+	
+	  2018/11/28
+  1) http://jira.codebee.dk:8080/browse/DAM-129
+	- Resolving conflicts after merging task DAM-130 and DAM-131 in this task
+  2) http://jira.codebee.dk:8080/browse/MBS-260
+	- Task for hiding Incoterms in various cases in Shipment create page
+  3) http://jira.codebee.dk:8080/browse/NTG-359
+	- Task for hiding Incoterms in various cases in Shipment create page
+  4) http://jira.codebee.dk:8080/browse/DAM-133
+	- Task for hiding Incoterms in various cases in Shipment create page
+
+	  2018/11/29
+  1) http://jira.codebee.dk:8080/browse/DAM-129
+	- Resolving conflicts after merging task DAM-130 and DAM-131 in this task
+  2) http://jira.codebee.dk:8080/browse/MBS-260
+	- Task for hiding Incoterms in various cases in Shipment create page
+  3) http://jira.codebee.dk:8080/browse/NTG-359
+	- Task for hiding Incoterms in various cases in Shipment create page
+  4) http://jira.codebee.dk:8080/browse/DAM-133
+	- Task for hiding Incoterms in various cases in Shipment create page

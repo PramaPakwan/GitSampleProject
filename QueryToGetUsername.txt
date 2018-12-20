@@ -1,0 +1,8 @@
+Select UserName,Password from aspnet_Users u
+join aspnet_Membership m
+on u.UserId =m.UserId
+join aspnet_UsersInRoles ur
+on ur.UserId = m.UserId
+where ur.RoleId='223B9BA3-08C9-455F-B377-D6DCFBD6B441'
+
+Username :

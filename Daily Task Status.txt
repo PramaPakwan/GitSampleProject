@@ -1,0 +1,175 @@
+2018/10/11
+1) http://jira.codebee.dk:8080/browse/CSUI-238
+ - Spinner issue in history Edit page
+2) http://jira.codebee.dk:8080/browse/CSUI-239
+ - date update unsolved in few cases like status update
+3) http://jira.codebee.dk:8080/browse/CAP-149
+ - Test 
+
+2018/10/22
+
+1) Task for:  check the currency code
+  - jira.codebee.dk:8080/browse/DAM-106
+  - jira.codebee.dk:8080/browse/NTG-338
+  - jira.codebee.dk:8080/browse/LEM-653
+
+2) Task for : Select bookingoptions fix
+ - http://jira.codebee.dk:8080/browse/NTG-336
+ - http://jira.codebee.dk:8080/browse/LEM-651
+ - http://jira.codebee.dk:8080/browse/DAM-103
+
+2018/10/23
+1) Task for : Select bookingoptions fix- Changes made 
+ - http://jira.codebee.dk:8080/browse/NTG-336
+ - http://jira.codebee.dk:8080/browse/LEM-651
+ - http://jira.codebee.dk:8080/browse/DAM-103
+2) http://jira.codebee.dk:8080/browse/CSUI-239
+ -After updating the ticket, the Updated field does not update its date.
+3) http://jira.codebee.dk:8080/browse/MBS-224
+ - English to Germany Translation
+
+2018/10/24
+1) http://jira.codebee.dk:8080/browse/CSUI-267
+ - After edit the created date is removed.
+2) http://jira.codebee.dk:8080/browse/CSUI-239
+ - Date Change on change of different parameters on Ticket edit page
+3) http://jira.codebee.dk:8080/browse/CSUI-260
+ - new comment should be able to add from comment section
+
+2018/10/26
+1) http://jira.codebee.dk:8080/browse/CSUI-260
+ - new comment should be able to add from comment section
+2) http://jira.codebee.dk:8080/browse/CSUI-277
+ - Its design issue so left for next time to be done in support of designer
+3) http://jira.codebee.dk:8080/browse/CSUI-279
+ - removed comment section from All Tab
+4) http://jira.codebee.dk:8080/browse/CSUI-281
+ - add all the status type on list
+
+2018/10/29
+1) http://jira.codebee.dk:8080/browse/CSUI-260
+ - Changes made as there was error in this task
+2)  http://jira.codebee.dk:8080/browse/MBS-224
+ - English to German translation not finished yet as there were changes to be tested on
+   various locations
+ - For this task changes done for yes no checkbox by consulting with designer
+
+2018/10/30
+1) http://jira.codebee.dk:8080/browse/MBS-224
+- Changes in Unicode
+2) http://jira.codebee.dk:8080/browse/SCAN-1005
+ - Added Currency in Invoice Setting
+3) http://jira.codebee.dk:8080/browse/CSUI-268
+ - need to remove space between the text 
+
+2018/10/31
+1) http://jira.codebee.dk:8080/browse/CSUI-268
+- Checked for files name edit in floara editor
+
+2018/11/1
+1) http://jira.codebee.dk:8080/browse/CSUI-268
+- Changes in height as Edit not done as required
+2) http://jira.codebee.dk:8080/browse/CSUI-172
+ - Its old declined task and so while testing in staging all chages are already there
+   so this task is declined
+3) http://jira.codebee.dk:8080/browse/LEM-663
+ - Enable edit feeCost
+4) http://jira.codebee.dk:8080/browse/NTG-344
+ - Enable edit feeCost
+5) http://jira.codebee.dk:8080/browse/SEK-400
+ - Enable edit feeCost
+6) http://jira.codebee.dk:8080/browse/CAP-192
+ - Enable edit feeCost
+7) http://jira.codebee.dk:8080/browse/DAM-114
+ - Enable edit feeCost
+8) http://jira.codebee.dk:8080/browse/POST-248
+ - Enable edit feeCost
+9) http://jira.codebee.dk:8080/browse/STAIR-97
+ - Enable edit feeCost
+10) http://jira.codebee.dk:8080/browse/SEK-398
+ - NON STACKABLE Fee in Shipment Table
+
+
+2018/11/02
+1) http://jira.codebee.dk:8080/browse/SEK-398
+ - Shipment was not being created for DHL products so took longer to test this task
+2) http://jira.codebee.dk:8080/browse/CUS-121
+ - migration is created for this task
+3) http://jira.codebee.dk:8080/browse/CUS-126
+- Model is created but not migration as no Company table
+
+2018/11/05
+1) http://jira.codebee.dk:8080/browse/CUS-121
+ - Added CustomerProfile,CustomerBalance and AddressBook in Database
+ - Added Country Table as it is dependency  on AddressBook
+
+2018/11/06
+1) http://jira.codebee.dk:8080/browse/CUS-121
+ - Seeding data from csv file and made changes as per Comment
+ - In this task changes for CUS-121, CUS-126 and CUS-131 is included
+
+2018/11/14
+1) http://jira.codebee.dk:8080/browse/MBS-241
+- test for pickup time issue
+2) http://jira.codebee.dk:8080/browse/DAM-121
+-  pickup time issue
+3) http://jira.codebee.dk:8080/browse/CAP-196
+-  pickup time issue
+4) http://jira.codebee.dk:8080/browse/NTG-352
+-  pickup time issue
+5) http://jira.codebee.dk:8080/browse/SEK-407
+-  pickup time issue
+
+2018/11/16
+1) http://jira.codebee.dk:8080/browse/MBS-241
+- conflict resolve in this task
+2) http://jira.codebee.dk:8080/browse/DAM-123
+
+2018/11/16
+1) http://jira.codebee.dk:8080/browse/DAM-130
+2) http://jira.codebee.dk:8080/browse/DAM-131
+- Add Try catch in Converter and Services
+
+
+2018/12/03
+1) http://jira.codebee.dk:8080/browse/DHL-990
+ - Additional information for Dangerouse goods
+2) http://jira.codebee.dk:8080/browse/STAIR-113
+ - Add 3 new fee 
+3) http://jira.codebee.dk:8080/browse/CSUI-319
+ - Please move the title text box little closer to the field name.
+ - This design issue is to to resolved with other task
+4) http://jira.codebee.dk:8080/browse/CSUI-315
+ - This issue is not present in develop and staging so sent back
+ 
+ 
+ 2018/12/04
+1) http://jira.codebee.dk:8080/browse/MBS-260
+ - Changes for altered issue
+2) http://jira.codebee.dk:8080/browse/STAIR-113
+ - Shipment Was not being created in STAIR so longer time was spent on shipment created
+ 
+  2018/12/12
+1) http://jira.codebee.dk:8080/browse/MBS-260
+ - Shipment was not created for DDP as there was not appropriate WallPriceLineTypeID in PriceLinesType
+2) http://jira.codebee.dk:8080/browse/DAM-129
+
+
+  2018/12/13
+1) http://jira.codebee.dk:8080/browse/DHL-990
+- Resolved Conflicts and other errors found white tested
+2) http://jira.codebee.dk:8080/browse/SEK-421
+ - default packaging data loading error
+3) http://jira.codebee.dk:8080/browse/DAM-123
+ - try catch issue in Controllers
+ 
+2018/12/14
+1) http://jira.codebee.dk:8080/browse/DAM-123
+
+ - try catch issue in Controllers testing in different parts
+
+2018/12/18
+ 1) http://jira.codebee.dk:8080/browse/SEK-421
+ - default packaging data loading as per Account ID
+ 2) http://jira.codebee.dk:8080/browse/STAIR-126
+ - Hide custom value and currency fields when Document is set to true on Account Change
